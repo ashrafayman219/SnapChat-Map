@@ -1,0 +1,5 @@
+let userData = {
+  Name: "Jannette",
+  Gender: "Female",
+  urlProfile: "https://i.pinimg.com/474x/9d/97/3e/9d973e10d026bd0359062439989b8eaf.jpg"
+};
